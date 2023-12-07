@@ -1,4 +1,6 @@
 ### Hi there 👋🏽, I'm Moïse Berthé
+--
+### About me
 
 - 👨🏽‍🎓 **Student**: Currently studying Data Science at Université Lumière Lyon2.
 - 🔭 **Current Projects**: Developing a Natural Language Processing (NLP) project focused on web scraping to retrieve and analyze online job offers. 🌐💬
