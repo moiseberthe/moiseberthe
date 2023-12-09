@@ -13,6 +13,6 @@
 <p>
 <br>
 <p style='display: flex; align-items: start; gap: 16px; max-width: 600px'>
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=moiseberthe&show_icons=true&locale=en&layout=compact" alt="moiseberthe" />
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=moiseberthe&show_icons=true&locale=en" alt="moiseberthe" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=moiseberthe&show_icons=true&locale=en&layout=compact" alt="moiseberthe" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=moiseberthe&show_icons=true&locale=en" alt="moiseberthe" />
 </p>
