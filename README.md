@@ -1,6 +1,7 @@
 ### Hi there 👋🏽, I'm Moïse Berthé
 
-![4](https://github.com/moiseberthe/moiseberthe/assets/75121872/944e60cf-4e12-4dbf-855d-cd48736184bf)
+![4](!['Moïse Berthé](https://github.com/moiseberthe/moiseberthe/assets/75121872/29e49c27-fb83-4286-aeaa-1cd682be56de)
+![4](!['Moïse Berthé](https://github.com/moiseberthe/moiseberthe/assets/75121872/944e60cf-4e12-4dbf-855d-cd48736184bf)
 
 ### About me
 
