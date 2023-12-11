@@ -20,6 +20,9 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="40" height="40"/> 
     </a>
+    <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/fastapi/fastapi-original.svg" alt="fastapi" title="FastAPI" width="40" height="40"/>
+    </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/flask/flask-original.svg" alt="flask" title="Flask" width="40" height="40"/>
     </a>
@@ -44,6 +47,11 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/laravel/laravel-plain.svg" alt="laravel" title="Laravel" width="40" height="40"/>
     </a>
+    <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="Power BI" title="Power BI" width="40" height="40"/>
+    <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://nextviewconsulting.com/sites/default/files/styles/large/public/icons/logo-tableau-cirkel.png?itok=CsAZTLUk" alt="Tableau" title="Tableau" width="40" height="40"/>
+    </a>
 <p>
 </p>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -61,11 +69,17 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" title="NodeJS" width="40" height="40"/>
     </a>
-    <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/fastapi/fastapi-original.svg" alt="fastapi" title="FastAPI" width="40" height="40"/>
-    </a>
     <a href="https://react.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" alt="reactjs" title="ReactJS" width="40" height="40"/>
+    </a>
+    <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/azure/azure-original.svg" alt="azure" title="Azure" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" title="Docker" width="40" height="40"/>
+    </a>
+    <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="Hadoop" title="Hadoop" width="40" height="40"/>
     </a>
 </p>
 <p align="left">
@@ -81,29 +95,9 @@
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" title="PostgreSQL" width="40" height="40"/>
     </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.stape.io/i/64522a269b32b387104684.png" alt="git" title="git" width="40" height="40"/>
+    <a href="https://supabase.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.stape.io/i/64522a269b32b387104684.png" alt="Supabase" title="Supabase" width="40" height="40"/>
     </a>
-</p>
-<p>
-    <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/azure/azure-original.svg" alt="azure" title="Azure" width="40" height="40"/>
-    </a>
-    <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="Power BI" title="Power BI" width="40" height="40"/>
-    <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://nextviewconsulting.com/sites/default/files/styles/large/public/icons/logo-tableau-cirkel.png?itok=CsAZTLUk" alt="Tableau" title="Tableau" width="40" height="40"/>
-    </a>
-<p>
-</p>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" title="Docker" width="40" height="40"/>
-    </a>
-    <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="Hadoop" title="Hadoop" width="40" height="40"/>
-    </a>
-</p>
-</p>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>
     </a>
