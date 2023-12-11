@@ -15,7 +15,7 @@
 </a>
 <p>
 <br>
-<h3>Languages and Tools:</h3>
+<h3>Languages and Tools</h3>
 <p>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="40" height="40"/> 
@@ -108,7 +108,8 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>
     </a>
 </p>
-<br>
+<h3>Some stats</h3>
+<img width="150" src="https://komarev.com/ghpvc/?username=moiseberthe" alt="moiseberthe" />
 <p>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=moiseberthe&show_icons=true&locale=en&layout=compact" alt="moiseberthe" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=moiseberthe&show_icons=true&locale=en" alt="moiseberthe" />
