@@ -105,7 +105,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>
     </a>
 </p>
-<h3>Some stats</h3>
+<h3>Some statistics</h3>
 <img width="150" src="https://komarev.com/ghpvc/?username=moiseberthe" alt="moiseberthe" />
 <p>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=moiseberthe&show_icons=true&locale=en&layout=compact" alt="moiseberthe" />
