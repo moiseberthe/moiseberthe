@@ -106,8 +106,8 @@
     </a>
 </p>
 <h3>Some statistics</h3>
-<img width="150" src="https://komarev.com/ghpvc/?username=moiseberthe" alt="moiseberthe" />
+<img width="150" src="https://komarev.com/ghpvc/?username=LeoGondouin" alt="moiseberthe" />
 <p>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=moiseberthe&show_icons=true&locale=en&layout=compact" alt="moiseberthe" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=moiseberthe&show_icons=true&locale=en" alt="moiseberthe" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoGondouin&show_icons=true&locale=en&layout=compact" alt="moiseberthe" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LeoGondouin&show_icons=true&locale=en" alt="moiseberthe" />
 </p>
